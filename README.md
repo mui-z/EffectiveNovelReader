@@ -15,4 +15,4 @@ https://github.com/mui-z/EffectiveNovelReader/blob/3f3f10d3822c637a403b2b1c0c5f5
 
 ## LICENSE
 
-EffectiveNovelCore is licensed under the [MIT License](LICENSE)
+[EffectiveNovelCore](https://github.com/mui-z/EffectiveNovelCore) is licensed under the [MIT License](LICENSE)
