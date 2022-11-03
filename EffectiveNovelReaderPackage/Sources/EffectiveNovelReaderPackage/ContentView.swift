@@ -21,7 +21,6 @@ public struct ContentView: View {
                     .frame(maxWidth: 600)
             }
                 .padding()
-                .background(.gray)
                 .frame(width: geometry.size.width)
                 .frame(minHeight: geometry.size.height)
         }
