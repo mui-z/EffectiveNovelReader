@@ -4,7 +4,7 @@ Effective Novel Core Example iOS Project
 
 ## Demo
 
-![output](https://user-images.githubusercontent.com/93278577/194829882-b15ff311-cc4d-4ffc-ba45-ff846183685c.gif)
+![output](https://user-images.githubusercontent.com/93278577/199856220-e8560b14-5e93-431d-8afc-3fe454690d46.gif)
 
 ## Usage
 
